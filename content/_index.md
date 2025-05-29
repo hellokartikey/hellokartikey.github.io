@@ -2,8 +2,13 @@
 title = "hellokartikey's Blog"
 +++
 
-<img src="https://avatars.githubusercontent.com/u/95235337?v=4" style="width:128px;" />
-(literally me)
+<figure>
+    <img
+        src="https://avatars.githubusercontent.com/u/95235337?v=4"
+        style="width:192px;"
+    />
+    <figcaption>this is literally me</figcaption>
+</figure>
 
 # About Me
 
@@ -26,6 +31,7 @@ I also like to read about history and ideas of revolutionaries, specially from I
 Visit my book list to find out my recommendations and favourites!
 
 # More From Me
+
 - [📚 Books](books) I've read and recommend.
 - [🎨 Drawings](drawings) I've made.
 - [⛩️ Anime](https://myanimelist.net/animelist/Saki_Chan_Desu) I've seen.
