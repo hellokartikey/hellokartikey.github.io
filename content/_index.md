@@ -37,6 +37,17 @@ Visit my book list to find out my recommendations and favourites!
 - [⛩️ Anime](https://myanimelist.net/animelist/Saki_Chan_Desu) I've seen.
 - [🧑‍💻 Projects](projects) I've been involved with.
 
+# Webrings
+
+- 🏫 {{
+    webring(
+        prev="#",
+        next="#",
+        webringName="My University",
+        webring="https://404salad.github.io/webring/"
+    )
+}}
+
 # Get in Touch
 
 Please don't ever contact me.
