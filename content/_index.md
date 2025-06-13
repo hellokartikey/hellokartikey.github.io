@@ -14,7 +14,7 @@ title = "hellokartikey's Blog"
 
 Welcome to my website!
 I am Kartikey from Lucknow, UP.
-I am pursuing my masters in ABC at XYZ.
+I am pursuing my masters in Computer Science at IIT Mandi.
 
 I enjoy programming in C++ and Python.
 I am currently experimenting with Qt app development, influenced by KDE.
