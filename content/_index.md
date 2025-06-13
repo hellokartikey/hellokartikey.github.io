@@ -5,7 +5,8 @@ title = "hellokartikey's Blog"
 <figure>
     <img
         src="https://avatars.githubusercontent.com/u/95235337?v=4"
-        style="width:192px;"
+        width="192px"
+        height="192px"
     />
     <figcaption>this is literally me</figcaption>
 </figure>

@@ -5,6 +5,7 @@ title = "All about books!"
 <figure>
     <img
         src="https://upload.wikimedia.org/wikipedia/commons/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg"
+        height="500px"
     />
     <figcaption>
         The School of Athens by Raphael
