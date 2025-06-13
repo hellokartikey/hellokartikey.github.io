@@ -33,3 +33,19 @@ Recently, I have started to read japanese light novels.
 
 1. Gimai Seikatsu by Ghost Mikawa
 1. Makeine by Takibi Amamori
+
+## Reading List
+
+This is a non-exhaustive list of books I have read.
+
+- Gimai Seikatsu v12 (31 May 25)
+- Gimai Seikatsu v11 (14 Mar 25)
+- Bobok (12 Mar 25)
+- The Last Days of Socrates (20 Feb 25)
+    - Euthyphro
+    - Apology
+    - Crito
+    - Phaedo
+- Gimai Seikatsu v10 (16 Feb 25)
+- Gimai Seikatsu v09 (08 Feb 25)
+- Gimai Seikatsu v08 (22 Jan 25)
