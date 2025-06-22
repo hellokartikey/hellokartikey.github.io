@@ -39,6 +39,7 @@ Recently, I have started to read japanese light novels.
 
 This is a non-exhaustive list of books I have read.
 
+- On Earth We're Briefly Gorgeous (22 Jun 25)
 - Gimai Seikatsu v12 (31 May 25)
 - Gimai Seikatsu v11 (14 Mar 25)
 - Bobok (12 Mar 25)
