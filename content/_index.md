@@ -42,9 +42,9 @@ Visit my book list to find out my recommendations and favourites!
 
 - 🏫 {{
     webring(
-        prev="#",
-        next="#",
-        webringName="My University",
+        prev="https://404salad.github.io/webring/hellokartikey/previous",
+        next="https://404salad.github.io/webring/hellokartikey/next",
+        webringName="University Friends",
         webring="https://404salad.github.io/webring/"
     )
 }}
