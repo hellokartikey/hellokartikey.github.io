@@ -39,6 +39,7 @@ Recently, I have started to read japanese light novels.
 
 This is a non-exhaustive list of books I have read.
 
+- Gimai Seikatsu v13 (11 Jul 25)
 - Famine, Affluence, and Morality (26 Jun 25)
 - On Earth We're Briefly Gorgeous (22 Jun 25)
 - Gimai Seikatsu v12 (31 May 25)
