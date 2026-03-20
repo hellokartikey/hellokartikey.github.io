@@ -39,6 +39,8 @@ Recently, I have started to read japanese light novels.
 
 This is a non-exhaustive list of books I have read.
 
+- Makeine v02 (02 Mar 26)
+- Shoushimin v01 (26 Feb 26)
 - Gimai Seikatsu - Another Days (27 Oct 25)
 - Makeine v01 (05 Aug 25)
 - Gimai Seikatsu v13 (11 Jul 25)
