@@ -39,6 +39,7 @@ Recently, I have started to read japanese light novels.
 
 This is a non-exhaustive list of books I have read.
 
+- Mistborn: The Final Empire (07 May 26)
 - Makeine v02 (02 Mar 26)
 - Shoushimin v01 (26 Feb 26)
 - Gimai Seikatsu - Another Days (27 Oct 25)
