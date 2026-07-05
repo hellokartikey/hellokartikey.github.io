@@ -39,6 +39,7 @@ Recently, I have started to read japanese light novels.
 
 This is a non-exhaustive list of books I have read.
 
+- Mistborn: The Hero of Ages (30 Jun 26)
 - Mistborn: The Well of Ascension (11 Jun 26)
 - Mistborn: The Final Empire (07 May 26)
 - Makeine v02 (02 Mar 26)
