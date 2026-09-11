@@ -39,6 +39,7 @@ Recently, I have started to read japanese light novels.
 
 This is a non-exhaustive list of books I have read.
 
+- Yumi and the Nightmare Painter (10 Sep 26)
 - Shoushimin v02 (19 Jul 26)
 - Mistborn: The Hero of Ages (30 Jun 26)
 - Mistborn: The Well of Ascension (11 Jun 26)
